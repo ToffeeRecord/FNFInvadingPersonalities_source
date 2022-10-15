@@ -1,0 +1,11 @@
+{
+	
+	"image": "M Toffee",
+	"position": [
+		150,
+		460
+	],
+	"scale": 0.3,
+	"idle_anim": "M Toffee Idle",
+	"confirm_anim": "M Toffee Idle"
+}

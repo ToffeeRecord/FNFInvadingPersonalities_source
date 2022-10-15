@@ -1,0 +1,52 @@
+{
+	"storyName": "O L D   T R   W E E K   L O L",
+	"hideFreeplay": true,
+	"weekBackground": "bedroom",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"toffee",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Old Mistakes",
+			"old-toffee",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"Old Coladdiction",
+			"old-toffee",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"Old Twitching",
+			"old-toffeeCrazy",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"Old Fluffiness",
+			"old-toffurry",
+			[
+				200,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 3"
+}

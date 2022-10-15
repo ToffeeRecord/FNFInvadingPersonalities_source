@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Toffurry Song4.png"><SubTexture name="Toffurry Song4 Down0000" x="0" y="0" width="699" height="1010" frameX="0" frameY="0" frameWidth="699" frameHeight="1010" />
+<SubTexture name="Toffurry Song4 Down0001" x="699" y="0" width="699" height="1010" frameX="0" frameY="0" frameWidth="699" frameHeight="1010" />
+<SubTexture name="Toffurry Song4 Down0002" x="1398" y="0" width="699" height="1010" frameX="0" frameY="0" frameWidth="699" frameHeight="1010" />
+<SubTexture name="Toffurry Song4 Down0003" x="2097" y="0" width="699" height="1010" frameX="0" frameY="0" frameWidth="699" frameHeight="1010" />
+<SubTexture name="Toffurry Song4 Idle0000" x="0" y="1010" width="604" height="1333" frameX="0" frameY="0" frameWidth="604" frameHeight="1333" />
+<SubTexture name="Toffurry Song4 Idle0001" x="604" y="1010" width="604" height="1333" frameX="0" frameY="0" frameWidth="604" frameHeight="1333" />
+<SubTexture name="Toffurry Song4 Idle0002" x="1208" y="1010" width="604" height="1333" frameX="0" frameY="0" frameWidth="604" frameHeight="1333" />
+<SubTexture name="Toffurry Song4 Idle0003" x="1812" y="1010" width="604" height="1333" frameX="0" frameY="0" frameWidth="604" frameHeight="1333" />
+<SubTexture name="Toffurry Song4 Idle0004" x="0" y="2343" width="604" height="1333" frameX="0" frameY="0" frameWidth="604" frameHeight="1333" />
+<SubTexture name="Toffurry Song4 Idle0005" x="604" y="2343" width="604" height="1333" frameX="0" frameY="0" frameWidth="604" frameHeight="1333" />
+<SubTexture name="Toffurry Song4 Idle0006" x="1208" y="2343" width="604" height="1333" frameX="0" frameY="0" frameWidth="604" frameHeight="1333" />
+<SubTexture name="Toffurry Song4 Left0000" x="1812" y="2343" width="804" height="1189" frameX="0" frameY="0" frameWidth="804" frameHeight="1189" />
+<SubTexture name="Toffurry Song4 Left0001" x="0" y="3676" width="804" height="1189" frameX="0" frameY="0" frameWidth="804" frameHeight="1189" />
+<SubTexture name="Toffurry Song4 Left0002" x="804" y="3676" width="804" height="1189" frameX="0" frameY="0" frameWidth="804" frameHeight="1189" />
+<SubTexture name="Toffurry Song4 Left0003" x="1608" y="3676" width="804" height="1189" frameX="0" frameY="0" frameWidth="804" frameHeight="1189" />
+<SubTexture name="Toffurry Song4 Right0000" x="2412" y="3676" width="807" height="1267" frameX="0" frameY="0" frameWidth="807" frameHeight="1267" />
+<SubTexture name="Toffurry Song4 Right0001" x="0" y="4943" width="807" height="1267" frameX="0" frameY="0" frameWidth="807" frameHeight="1267" />
+<SubTexture name="Toffurry Song4 Right0002" x="807" y="4943" width="807" height="1267" frameX="0" frameY="0" frameWidth="807" frameHeight="1267" />
+<SubTexture name="Toffurry Song4 Right0003" x="1614" y="4943" width="807" height="1267" frameX="0" frameY="0" frameWidth="807" frameHeight="1267" />
+<SubTexture name="Toffurry Song4 Up0000" x="2421" y="4943" width="631" height="1404" frameX="0" frameY="0" frameWidth="631" frameHeight="1404" />
+<SubTexture name="Toffurry Song4 Up0001" x="0" y="6347" width="631" height="1404" frameX="0" frameY="0" frameWidth="631" frameHeight="1404" />
+<SubTexture name="Toffurry Song4 Up0002" x="631" y="6347" width="631" height="1404" frameX="0" frameY="0" frameWidth="631" frameHeight="1404" />
+<SubTexture name="Toffurry Song4 Up0003" x="1262" y="6347" width="631" height="1404" frameX="0" frameY="0" frameWidth="631" frameHeight="1404" />
+</TextureAtlas>

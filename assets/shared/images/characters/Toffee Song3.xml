@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Toffee Song3.png"><SubTexture name="Toffee Song3 Down0000" x="0" y="0" width="593" height="1271" frameX="0" frameY="0" frameWidth="593" frameHeight="1271" />
+<SubTexture name="Toffee Song3 Down0001" x="593" y="0" width="593" height="1271" frameX="0" frameY="0" frameWidth="593" frameHeight="1271" />
+<SubTexture name="Toffee Song3 Idle0000" x="1186" y="0" width="593" height="1271" frameX="0" frameY="0" frameWidth="593" frameHeight="1271" />
+<SubTexture name="Toffee Song3 Idle0001" x="0" y="1271" width="593" height="1271" frameX="0" frameY="0" frameWidth="593" frameHeight="1271" />
+<SubTexture name="Toffee Song3 Idle0002" x="593" y="1271" width="593" height="1271" frameX="0" frameY="0" frameWidth="593" frameHeight="1271" />
+<SubTexture name="Toffee Song3 Left0000" x="1186" y="1271" width="593" height="1271" frameX="0" frameY="0" frameWidth="593" frameHeight="1271" />
+<SubTexture name="Toffee Song3 Left0001" x="0" y="2542" width="593" height="1271" frameX="0" frameY="0" frameWidth="593" frameHeight="1271" />
+<SubTexture name="Toffee Song3 Right0000" x="593" y="2542" width="654" height="1271" frameX="0" frameY="0" frameWidth="654" frameHeight="1271" />
+<SubTexture name="Toffee Song3 Right0001" x="1247" y="2542" width="654" height="1271" frameX="0" frameY="0" frameWidth="654" frameHeight="1271" />
+<SubTexture name="Toffee Song3 Up0000" x="0" y="3813" width="593" height="1271" frameX="0" frameY="0" frameWidth="593" frameHeight="1271" />
+<SubTexture name="Toffee Song3 Up0001" x="593" y="3813" width="593" height="1271" frameX="0" frameY="0" frameWidth="593" frameHeight="1271" />
+</TextureAtlas>

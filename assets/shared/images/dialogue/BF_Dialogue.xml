@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf pissed loop0000" x="5" y="5" width="426" height="399" frameX="0" frameY="-14" frameWidth="426" frameHeight="413"/>
+	<SubTexture name="bf pissed loop0001" x="5" y="5" width="426" height="399" frameX="0" frameY="-14" frameWidth="426" frameHeight="413"/>
+	<SubTexture name="bf pissed loop0002" x="436" y="5" width="421" height="409" frameX="-4" frameY="-4" frameWidth="426" frameHeight="413"/>
+	<SubTexture name="bf pissed loop0003" x="436" y="5" width="421" height="409" frameX="-4" frameY="-4" frameWidth="426" frameHeight="413"/>
+	<SubTexture name="bf pissed loop0004" x="862" y="5" width="415" height="413" frameX="-9" frameY="0" frameWidth="426" frameHeight="413"/>
+	<SubTexture name="bf pissed loop0005" x="862" y="5" width="415" height="413" frameX="-9" frameY="0" frameWidth="426" frameHeight="413"/>
+	<SubTexture name="bf pissed speak0000" x="1282" y="5" width="419" height="425" frameX="0" frameY="0" frameWidth="444" frameHeight="425"/>
+	<SubTexture name="bf pissed speak0001" x="1282" y="5" width="419" height="425" frameX="0" frameY="0" frameWidth="444" frameHeight="425"/>
+	<SubTexture name="bf pissed speak0002" x="1706" y="5" width="417" height="417" frameX="-13" frameY="-8" frameWidth="444" frameHeight="425"/>
+	<SubTexture name="bf pissed speak0003" x="1706" y="5" width="417" height="417" frameX="-13" frameY="-8" frameWidth="444" frameHeight="425"/>
+	<SubTexture name="bf pissed speak0004" x="862" y="5" width="415" height="413" frameX="-29" frameY="-12" frameWidth="426" frameHeight="413"/>
+	<SubTexture name="bf pissed speak0005" x="862" y="5" width="415" height="413" frameX="-29" frameY="-12" frameWidth="426" frameHeight="413"/>
+	<SubTexture name="bf scared loop0000" x="2128" y="5" width="381" height="405" frameX="-22" frameY="-8" frameWidth="403" frameHeight="413"/>
+	<SubTexture name="bf scared loop0001" x="2514" y="5" width="381" height="405" frameX="-22" frameY="-8" frameWidth="403" frameHeight="413"/>
+	<SubTexture name="bf scared loop0002" x="2900" y="5" width="383" height="409" frameX="-8" frameY="-4" frameWidth="403" frameHeight="413"/>
+	<SubTexture name="bf scared loop0003" x="3288" y="5" width="383" height="409" frameX="-8" frameY="-4" frameWidth="403" frameHeight="413"/>
+	<SubTexture name="bf scared loop0004" x="3676" y="5" width="387" height="413" frameX="0" frameY="0" frameWidth="403" frameHeight="413"/>
+	<SubTexture name="bf scared loop0005" x="5" y="435" width="387" height="413" frameX="0" frameY="0" frameWidth="403" frameHeight="413"/>
+	<SubTexture name="bf scared speak0000" x="397" y="435" width="386" height="448" frameX="-26" frameY="0" frameWidth="412" frameHeight="449"/>
+	<SubTexture name="bf scared speak0001" x="788" y="435" width="386" height="448" frameX="-26" frameY="0" frameWidth="412" frameHeight="449"/>
+	<SubTexture name="bf scared speak0002" x="1179" y="435" width="394" height="431" frameX="-9" frameY="-18" frameWidth="412" frameHeight="449"/>
+	<SubTexture name="bf scared speak0003" x="1578" y="435" width="394" height="431" frameX="-9" frameY="-18" frameWidth="412" frameHeight="449"/>
+	<SubTexture name="bf scared speak0004" x="3676" y="5" width="387" height="413" frameX="0" frameY="-36" frameWidth="403" frameHeight="413"/>
+	<SubTexture name="bf scared speak0005" x="5" y="435" width="387" height="413" frameX="0" frameY="-36" frameWidth="403" frameHeight="413"/>
+	<SubTexture name="bf talk loop0000" x="1977" y="435" width="408" height="406" frameX="0" frameY="-7" frameWidth="410" frameHeight="413"/>
+	<SubTexture name="bf talk loop0001" x="1977" y="435" width="408" height="406" frameX="0" frameY="-7" frameWidth="410" frameHeight="413"/>
+	<SubTexture name="bf talk loop0002" x="2390" y="435" width="408" height="409" frameX="-1" frameY="-4" frameWidth="410" frameHeight="413"/>
+	<SubTexture name="bf talk loop0003" x="2390" y="435" width="408" height="409" frameX="-1" frameY="-4" frameWidth="410" frameHeight="413"/>
+	<SubTexture name="bf talk loop0004" x="2803" y="435" width="407" height="413" frameX="-3" frameY="0" frameWidth="410" frameHeight="413"/>
+	<SubTexture name="bf talk loop0005" x="2803" y="435" width="407" height="413" frameX="-3" frameY="0" frameWidth="410" frameHeight="413"/>
+	<SubTexture name="bf talk speak0000" x="3215" y="435" width="417" height="438"/>
+	<SubTexture name="bf talk speak0001" x="3215" y="435" width="417" height="438"/>
+	<SubTexture name="bf talk speak0002" x="3637" y="435" width="414" height="424" frameX="-2" frameY="-14" frameWidth="417" frameHeight="438"/>
+	<SubTexture name="bf talk speak0003" x="3637" y="435" width="414" height="424" frameX="-2" frameY="-14" frameWidth="417" frameHeight="438"/>
+	<SubTexture name="bf talk speak0004" x="2803" y="435" width="407" height="413" frameX="-6" frameY="-25" frameWidth="410" frameHeight="413"/>
+	<SubTexture name="bf talk speak0005" x="2803" y="435" width="407" height="413" frameX="-6" frameY="-25" frameWidth="410" frameHeight="413"/>
+</TextureAtlas>

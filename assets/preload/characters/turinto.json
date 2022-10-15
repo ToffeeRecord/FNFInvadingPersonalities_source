@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "turinto idle"
+		},
+		{
+			"offsets": [
+				45,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "turinto left"
+		},
+		{
+			"offsets": [
+				30,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "turinto right"
+		},
+		{
+			"offsets": [
+				9,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "turinto down"
+		},
+		{
+			"offsets": [
+				35,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "turinto up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/your-worst-nightmare",
+	"position": [
+		80,
+		250
+	],
+	"healthicon": "turinto",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		128,
+		255
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

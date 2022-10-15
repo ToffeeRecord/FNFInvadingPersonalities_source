@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="M Toffee.png">
+<SubTexture name="M Toffee Idle0000" x="0" y="0" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0001" x="0" y="0" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0002" x="0" y="0" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0003" x="486" y="0" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0004" x="486" y="0" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0005" x="0" y="1286" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0006" x="0" y="1286" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0007" x="486" y="1286" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0008" x="486" y="1286" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0009" x="0" y="2572" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0010" x="0" y="2572" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0011" x="0" y="2572" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0012" x="0" y="2572" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+<SubTexture name="M Toffee Idle0013" x="0" y="2572" width="486" height="1286" frameX="0" frameY="0" frameWidth="486" frameHeight="1286" />
+</TextureAtlas>

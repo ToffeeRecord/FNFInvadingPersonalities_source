@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Beep ska bo bep?",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hm? Oh, the can I'm holding?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "toffee"
+		},
+		{
+			"expression": "talk",
+			"text": "Bep de bo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, it's just a can of Coca Cola Espuma, ya know...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "toffee"
+		},
+		{
+			"expression": "talk",
+			"text": "Gets me the energy I need throughout the day...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "toffee"
+		},
+		{
+			"expression": "pissed",
+			"text": "Peep skap bo beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "lmao...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "toffee"
+		}
+	]
+}

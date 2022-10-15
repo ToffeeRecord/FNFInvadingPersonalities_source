@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TR_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TR_Coladdiction_Idle0000" x="5" y="5" width="260" height="486" frameX="0" frameY="-9" frameWidth="260" frameHeight="496"/>
+	<SubTexture name="TR_Coladdiction_Idle0001" x="5" y="5" width="260" height="486" frameX="0" frameY="-9" frameWidth="260" frameHeight="496"/>
+	<SubTexture name="TR_Coladdiction_Idle0002" x="270" y="5" width="241" height="493" frameX="-11" frameY="-3" frameWidth="260" frameHeight="496"/>
+	<SubTexture name="TR_Coladdiction_Idle0003" x="270" y="5" width="241" height="493" frameX="-11" frameY="-3" frameWidth="260" frameHeight="496"/>
+	<SubTexture name="TR_Coladdiction_Idle0004" x="516" y="5" width="247" height="496" frameX="-1" frameY="0" frameWidth="260" frameHeight="496"/>
+	<SubTexture name="TR_Coladdiction_Idle0005" x="516" y="5" width="247" height="496" frameX="-1" frameY="0" frameWidth="260" frameHeight="496"/>
+	<SubTexture name="TR_Coladdiction_Loop0000" x="768" y="5" width="250" height="505"/>
+	<SubTexture name="TR_Coladdiction_Loop0001" x="768" y="5" width="250" height="505"/>
+	<SubTexture name="TR_Coladdiction_Loop0002" x="1023" y="5" width="245" height="491" frameX="-5" frameY="-13" frameWidth="250" frameHeight="505"/>
+	<SubTexture name="TR_Coladdiction_Loop0003" x="1023" y="5" width="245" height="491" frameX="-5" frameY="-13" frameWidth="250" frameHeight="505"/>
+	<SubTexture name="TR_Coladdiction_Loop0004" x="1273" y="5" width="242" height="485" frameX="-8" frameY="-18" frameWidth="250" frameHeight="505"/>
+	<SubTexture name="TR_Coladdiction_Loop0005" x="1273" y="5" width="242" height="485" frameX="-8" frameY="-18" frameWidth="250" frameHeight="505"/>
+	<SubTexture name="TR_Twitching_Idle0000" x="1520" y="5" width="283" height="496" frameX="-31" frameY="0" frameWidth="368" frameHeight="496"/>
+	<SubTexture name="TR_Twitching_Idle0001" x="5" y="515" width="240" height="496" frameX="-89" frameY="0" frameWidth="368" frameHeight="496"/>
+	<SubTexture name="TR_Twitching_Idle0002" x="250" y="515" width="250" height="496" frameX="-58" frameY="0" frameWidth="368" frameHeight="496"/>
+	<SubTexture name="TR_Twitching_Idle0003" x="505" y="515" width="257" height="496" frameX="-55" frameY="0" frameWidth="368" frameHeight="496"/>
+	<SubTexture name="TR_Twitching_Idle0004" x="767" y="515" width="306" height="495" frameX="0" frameY="-1" frameWidth="368" frameHeight="496"/>
+	<SubTexture name="TR_Twitching_Idle0005" x="1078" y="515" width="306" height="485" frameX="-62" frameY="-11" frameWidth="368" frameHeight="496"/>
+	<SubTexture name="TR_Twitching_Loop0000" x="1389" y="515" width="283" height="550" frameX="0" frameY="0" frameWidth="313" frameHeight="550"/>
+	<SubTexture name="TR_Twitching_Loop0001" x="1677" y="515" width="270" height="447" frameX="-43" frameY="-91" frameWidth="313" frameHeight="550"/>
+	<SubTexture name="TR_Twitching_Loop0002" x="5" y="1070" width="229" height="502" frameX="-37" frameY="-42" frameWidth="313" frameHeight="550"/>
+	<SubTexture name="TR_Twitching_Loop0003" x="505" y="515" width="257" height="496" frameX="-24" frameY="-48" frameWidth="368" frameHeight="496"/>
+	<SubTexture name="TR_Twitching_Loop0004" x="239" y="1070" width="234" height="496" frameX="-50" frameY="-48" frameWidth="313" frameHeight="550"/>
+	<SubTexture name="TR_Twitching_Loop0005" x="478" y="1070" width="271" height="496" frameX="-37" frameY="-48" frameWidth="313" frameHeight="550"/>
+</TextureAtlas>

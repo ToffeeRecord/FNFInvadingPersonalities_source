@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TR_Idle"
+		},
+		{
+			"offsets": [
+				75,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TR_Left"
+		},
+		{
+			"offsets": [
+				130,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TR_Right"
+		},
+		{
+			"offsets": [
+				49,
+				-172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TR_Down"
+		},
+		{
+			"offsets": [
+				35,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TR_Up"
+		},
+		{
+			"offsets": [
+				130,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "TR_Burp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Toffee Song2-New",
+	"position": [
+		90,
+		-100
+	],
+	"healthicon": "toffee",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		0,
+		0
+	],
+	"camera_position": [
+		-230,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

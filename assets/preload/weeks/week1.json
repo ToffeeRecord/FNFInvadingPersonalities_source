@@ -1,0 +1,52 @@
+{
+	"storyName": "An Unexpected Surprise",
+	"hideFreeplay": false,
+	"weekBackground": "bedroom",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Mistakes",
+			"toffee",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"Coladdiction",
+			"toffee",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"Twitching",
+			"toffeeCrazy",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"Fluffiness",
+			"toffurry",
+			[
+				200,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				325
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Toffurry Song4 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				236
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Toffurry Song4 Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				290
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Toffurry Song4 Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Toffurry Song4 Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				365
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Toffurry Song4 Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Toffurry Song4",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "toffurry",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

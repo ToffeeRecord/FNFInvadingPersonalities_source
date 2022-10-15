@@ -1,0 +1,43 @@
+{
+	"storyName": "[data is corrupt]",
+	"hideFreeplay": false,
+	"weekBackground": "turinto",
+	"weekBefore": "week1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Technobeast",
+			"turinto",
+			[
+				255,
+				160,
+				255
+			]
+		],
+		[
+			"Newer Man",
+			"turinto",
+			[
+				255,
+				160,
+				255
+			]
+		],
+		[
+			"Storm Screamer",
+			"turinto",
+			[
+				255,
+				160,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

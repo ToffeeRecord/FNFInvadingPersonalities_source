@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf nervous loop0000" x="5" y="5" width="304" height="417" frameX="0" frameY="-16" frameWidth="321" frameHeight="436"/>
+	<SubTexture name="gf nervous loop0001" x="5" y="5" width="304" height="417" frameX="0" frameY="-16" frameWidth="321" frameHeight="436"/>
+	<SubTexture name="gf nervous loop0002" x="314" y="5" width="304" height="424" frameX="-4" frameY="-10" frameWidth="321" frameHeight="436"/>
+	<SubTexture name="gf nervous loop0003" x="314" y="5" width="304" height="424" frameX="-4" frameY="-10" frameWidth="321" frameHeight="436"/>
+	<SubTexture name="gf nervous loop0004" x="623" y="5" width="317" height="436" frameX="-4" frameY="0" frameWidth="321" frameHeight="436"/>
+	<SubTexture name="gf nervous loop0005" x="623" y="5" width="317" height="436" frameX="-4" frameY="0" frameWidth="321" frameHeight="436"/>
+	<SubTexture name="gf nervous speak0000" x="5" y="446" width="341" height="457"/>
+	<SubTexture name="gf nervous speak0001" x="5" y="446" width="341" height="457"/>
+	<SubTexture name="gf nervous speak0002" x="351" y="446" width="329" height="444" frameX="0" frameY="-11" frameWidth="341" frameHeight="457"/>
+	<SubTexture name="gf nervous speak0003" x="351" y="446" width="329" height="444" frameX="0" frameY="-11" frameWidth="341" frameHeight="457"/>
+	<SubTexture name="gf nervous speak0004" x="685" y="446" width="317" height="436" frameX="0" frameY="-18" frameWidth="341" frameHeight="457"/>
+	<SubTexture name="gf nervous speak0005" x="685" y="446" width="317" height="436" frameX="0" frameY="-18" frameWidth="341" frameHeight="457"/>
+</TextureAtlas>

@@ -1,0 +1,5 @@
+stage
+bedroom
+bedroomCola
+bedroomFilthy
+bedroomAwu

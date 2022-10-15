@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Bap skeep?"
+		},
+		{
+			"speed": 0.5,
+			"portrait": "toffee",
+			"boxState": "angry",
+			"expression": "talk_twitching",
+			"text": "Hehehe... HEHEHEHE..."
+		},
+		{
+			"speed": 0.5,
+			"portrait": "toffee",
+			"boxState": "angry",
+			"expression": "talk_twitching",
+			"text": "HEHEHAHAHA..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I... think he went a little bit too overboard with the Cola..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Bap bo..."
+		},
+		{
+			"speed": 0.5,
+			"portrait": "toffee",
+			"boxState": "angry",
+			"expression": "talk_twitching",
+			"text": "HAHA... WHAT DO YOU MEAN BY THAT?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Bep skap beep bo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Be be skbeep do bep bo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Let's... just... get this one started now..."
+		}
+	]
+}
