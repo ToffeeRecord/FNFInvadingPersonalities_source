@@ -58,6 +58,7 @@ class ChartingState extends MusicBeatState
 		'Hey!',
 		'Hurt Note',
 		'GF Sing',
+		'Duo Sing',
 		'No Animation',
 		'Cola Note',
 		'Substance Note'

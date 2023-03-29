@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TR_Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				59,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TR_Left0"
+		},
+		{
+			"offsets": [
+				63,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TR_Right0"
+		},
+		{
+			"offsets": [
+				59,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TR_Down0"
+		},
+		{
+			"offsets": [
+				-15,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TR_Up0"
+		},
+		{
+			"offsets": [
+				60,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "TR_LeftMiss"
+		},
+		{
+			"offsets": [
+				77,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "TR_RightMiss"
+		},
+		{
+			"offsets": [
+				59,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "TR_DownMiss"
+		},
+		{
+			"offsets": [
+				-8,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "TR_UpMiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEWToffee_MeetupPlayable",
+	"position": [
+		40,
+		-150
+	],
+	"healthicon": "toffee",
+	"flip_x": true,
+	"healthbar_colors": [
+		128,
+		0,
+		0
+	],
+	"camera_position": [
+		40,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

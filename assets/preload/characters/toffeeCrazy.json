@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "TR_Idle",
-			"indices": []
+			"indices": [],
+			"name": "TR_Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				17,
-				-19
+				7,
+				-62
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "TR_Left",
-			"indices": []
+			"indices": [],
+			"name": "TR_Left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-41,
-				-17
+				-75,
+				-53
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "TR_Right",
-			"indices": []
+			"indices": [],
+			"name": "TR_Right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-36,
-				-24
+				19,
+				2
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "TR_Down",
-			"indices": []
+			"indices": [],
+			"name": "TR_Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				10,
-				41
+				-9,
+				0
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "TR_Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "TR_Up"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Toffee Song3-New",
+	"image": "characters/NEWToffee_Twitching",
 	"position": [
-		80,
-		-110
+		-60,
+		-230
 	],
 	"healthicon": "toffeeCrazy",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		0
 	],
 	"camera_position": [
-		-90,
-		-100
+		-10,
+		40
 	],
 	"sing_duration": 4,
-	"scale": 1.2
+	"scale": 0.9
 }

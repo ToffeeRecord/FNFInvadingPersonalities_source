@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				35,
-				-29
+				37,
+				-12
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				90,
-				2
+				85,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				49,
-				-132
+				59,
+				-92
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				35,
-				70
+				105,
+				80
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,10 +57,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Toffee Song1-New",
+	"image": "characters/NEWToffee_Mistakes",
 	"position": [
-		80,
-		-110
+		40,
+		-150
 	],
 	"healthicon": "toffee",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		0
 	],
 	"camera_position": [
-		-130,
-		-40
+		-80,
+		70
 	],
 	"sing_duration": 4,
-	"scale": 1.2
+	"scale": 0.9
 }

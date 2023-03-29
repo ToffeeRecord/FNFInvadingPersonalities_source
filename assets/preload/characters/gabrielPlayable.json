@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gabe_Idle"
+		},
+		{
+			"offsets": [
+				-67,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gabe_Left"
+		},
+		{
+			"offsets": [
+				-73,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gabe_Right"
+		},
+		{
+			"offsets": [
+				-21,
+				-132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gabe_Down"
+		},
+		{
+			"offsets": [
+				-125,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gabe_Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gabriel_Playable",
+	"position": [
+		-10,
+		-130
+	],
+	"healthicon": "gabriel",
+	"flip_x": true,
+	"healthbar_colors": [
+		90,
+		45,
+		39
+	],
+	"camera_position": [
+		-70,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

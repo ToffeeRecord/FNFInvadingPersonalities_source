@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TFR_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TFR_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-75
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TFR_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				85
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TFR_Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TFR_Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEWTolaria_Assets",
+	"position": [
+		0,
+		-190
+	],
+	"healthicon": "toffurry",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-120,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

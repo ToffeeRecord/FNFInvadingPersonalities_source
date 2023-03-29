@@ -1,52 +1,48 @@
 {
-	"storyName": "O L D   T R   W E E K   L O L",
-	"hideFreeplay": true,
-	"weekBackground": "bedroom",
-	"weekBefore": "tutorial",
+	"storyName": "Casual Meetup with Gabriel",
+	"hideFreeplay": false,
+	"weekBackground": "meetup",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week2",
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
-		"toffee",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
 	"songs": [
 		[
-			"Old Mistakes",
-			"old-toffee",
+			"Lovebirds",
+			"gabriel",
 			[
-				100,
-				0,
-				0
+				90,
+				45,
+				39
 			]
 		],
 		[
-			"Old Coladdiction",
-			"old-toffee",
+			"Matchup",
+			"gabriel",
 			[
-				100,
-				0,
-				0
+				90,
+				45,
+				39
 			]
 		],
 		[
-			"Old Twitching",
-			"old-toffeeCrazy",
+			"Invader",
+			"stinkbug",
 			[
-				100,
-				0,
-				0
-			]
-		],
-		[
-			"Old Fluffiness",
-			"old-toffurry",
-			[
-				200,
-				0,
-				0
+				60,
+				60,
+				60
 			]
 		]
 	],
-	"hideStoryMode": true,
 	"weekName": "Week 3"
 }

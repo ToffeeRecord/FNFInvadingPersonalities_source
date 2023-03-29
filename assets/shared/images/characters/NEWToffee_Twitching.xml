@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NEWToffee_Twitching.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TR_Down0000" x="5" y="5" width="526" height="729" frameX="-9" frameY="-205" frameWidth="561" frameHeight="934"/>
+	<SubTexture name="TR_Down0001" x="536" y="5" width="328" height="933" frameX="-100" frameY="0" frameWidth="561" frameHeight="934"/>
+	<SubTexture name="TR_Down0002" x="869" y="5" width="561" height="785" frameX="0" frameY="-149" frameWidth="561" frameHeight="934"/>
+	<SubTexture name="TR_Down0003" x="1435" y="5" width="400" height="851" frameX="-132" frameY="-83" frameWidth="561" frameHeight="934"/>
+	<SubTexture name="TR_Down0004" x="1435" y="5" width="400" height="851" frameX="-132" frameY="-83" frameWidth="561" frameHeight="934"/>
+	<SubTexture name="TR_Down0005" x="1435" y="5" width="400" height="851" frameX="-132" frameY="-83" frameWidth="561" frameHeight="934"/>
+	<SubTexture name="TR_Down0006" x="1435" y="5" width="400" height="851" frameX="-132" frameY="-83" frameWidth="561" frameHeight="934"/>
+	<SubTexture name="TR_Down0007" x="1435" y="5" width="400" height="851" frameX="-132" frameY="-83" frameWidth="561" frameHeight="934"/>
+	<SubTexture name="TR_Down0008" x="1435" y="5" width="400" height="851" frameX="-132" frameY="-83" frameWidth="561" frameHeight="934"/>
+	<SubTexture name="TR_Down0009" x="1435" y="5" width="400" height="851" frameX="-132" frameY="-83" frameWidth="561" frameHeight="934"/>
+	<SubTexture name="TR_Idle0000" x="1840" y="5" width="544" height="702" frameX="0" frameY="-230" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0001" x="2389" y="5" width="367" height="932" frameX="-92" frameY="0" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0002" x="2761" y="5" width="447" height="820" frameX="-69" frameY="-113" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0003" x="3213" y="5" width="386" height="836" frameX="-104" frameY="-97" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0004" x="3604" y="5" width="434" height="836" frameX="-86" frameY="-97" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0005" x="5" y="943" width="427" height="875" frameX="-64" frameY="-58" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0006" x="437" y="943" width="464" height="844" frameX="-85" frameY="-89" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0007" x="906" y="943" width="380" height="845" frameX="-113" frameY="-88" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0008" x="1291" y="943" width="416" height="846" frameX="-28" frameY="-87" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0009" x="1712" y="943" width="400" height="851" frameX="-109" frameY="-82" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0010" x="1712" y="943" width="400" height="851" frameX="-109" frameY="-82" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0011" x="1712" y="943" width="400" height="851" frameX="-109" frameY="-82" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0012" x="1712" y="943" width="400" height="851" frameX="-109" frameY="-82" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0013" x="1712" y="943" width="400" height="851" frameX="-109" frameY="-82" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0014" x="1712" y="943" width="400" height="851" frameX="-109" frameY="-82" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0015" x="1712" y="943" width="400" height="851" frameX="-109" frameY="-82" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0016" x="1712" y="943" width="400" height="851" frameX="-109" frameY="-82" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0017" x="1712" y="943" width="400" height="851" frameX="-109" frameY="-82" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0018" x="1712" y="943" width="400" height="851" frameX="-109" frameY="-82" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Idle0019" x="1712" y="943" width="400" height="851" frameX="-109" frameY="-82" frameWidth="549" frameHeight="933"/>
+	<SubTexture name="TR_Left0000" x="2117" y="943" width="433" height="826" frameX="0" frameY="-39" frameWidth="551" frameHeight="865"/>
+	<SubTexture name="TR_Left0001" x="2555" y="943" width="507" height="865" frameX="-44" frameY="0" frameWidth="551" frameHeight="865"/>
+	<SubTexture name="TR_Left0002" x="3067" y="943" width="404" height="829" frameX="-91" frameY="-36" frameWidth="551" frameHeight="865"/>
+	<SubTexture name="TR_Left0003" x="3476" y="943" width="379" height="838" frameX="-97" frameY="-27" frameWidth="551" frameHeight="865"/>
+	<SubTexture name="TR_Left0004" x="3476" y="943" width="379" height="838" frameX="-97" frameY="-27" frameWidth="551" frameHeight="865"/>
+	<SubTexture name="TR_Left0005" x="3476" y="943" width="379" height="838" frameX="-97" frameY="-27" frameWidth="551" frameHeight="865"/>
+	<SubTexture name="TR_Left0006" x="3476" y="943" width="379" height="838" frameX="-97" frameY="-27" frameWidth="551" frameHeight="865"/>
+	<SubTexture name="TR_Left0007" x="3476" y="943" width="379" height="838" frameX="-97" frameY="-27" frameWidth="551" frameHeight="865"/>
+	<SubTexture name="TR_Left0008" x="3476" y="943" width="379" height="838" frameX="-97" frameY="-27" frameWidth="551" frameHeight="865"/>
+	<SubTexture name="TR_Left0009" x="3476" y="943" width="379" height="838" frameX="-97" frameY="-27" frameWidth="551" frameHeight="865"/>
+	<SubTexture name="TR_Right0000" x="5" y="1823" width="435" height="874" frameX="-24" frameY="0" frameWidth="463" frameHeight="874"/>
+	<SubTexture name="TR_Right0001" x="445" y="1823" width="364" height="837" frameX="0" frameY="-37" frameWidth="463" frameHeight="874"/>
+	<SubTexture name="TR_Right0002" x="814" y="1823" width="428" height="858" frameX="-24" frameY="-16" frameWidth="463" frameHeight="874"/>
+	<SubTexture name="TR_Right0003" x="1247" y="1823" width="440" height="851" frameX="-23" frameY="-23" frameWidth="463" frameHeight="874"/>
+	<SubTexture name="TR_Right0004" x="1247" y="1823" width="440" height="851" frameX="-23" frameY="-23" frameWidth="463" frameHeight="874"/>
+	<SubTexture name="TR_Right0005" x="1247" y="1823" width="440" height="851" frameX="-23" frameY="-23" frameWidth="463" frameHeight="874"/>
+	<SubTexture name="TR_Right0006" x="1247" y="1823" width="440" height="851" frameX="-23" frameY="-23" frameWidth="463" frameHeight="874"/>
+	<SubTexture name="TR_Right0007" x="1247" y="1823" width="440" height="851" frameX="-23" frameY="-23" frameWidth="463" frameHeight="874"/>
+	<SubTexture name="TR_Right0008" x="1247" y="1823" width="440" height="851" frameX="-23" frameY="-23" frameWidth="463" frameHeight="874"/>
+	<SubTexture name="TR_Right0009" x="1247" y="1823" width="440" height="851" frameX="-23" frameY="-23" frameWidth="463" frameHeight="874"/>
+	<SubTexture name="TR_Up0000" x="1692" y="1823" width="381" height="933" frameX="-9" frameY="0" frameWidth="539" frameHeight="933"/>
+	<SubTexture name="TR_Up0001" x="2078" y="1823" width="539" height="785" frameX="0" frameY="-147" frameWidth="539" frameHeight="933"/>
+	<SubTexture name="TR_Up0002" x="2622" y="1823" width="332" height="908" frameX="-97" frameY="-25" frameWidth="539" frameHeight="933"/>
+	<SubTexture name="TR_Up0003" x="2959" y="1823" width="400" height="851" frameX="-98" frameY="-82" frameWidth="539" frameHeight="933"/>
+	<SubTexture name="TR_Up0004" x="2959" y="1823" width="400" height="851" frameX="-98" frameY="-82" frameWidth="539" frameHeight="933"/>
+	<SubTexture name="TR_Up0005" x="2959" y="1823" width="400" height="851" frameX="-98" frameY="-82" frameWidth="539" frameHeight="933"/>
+	<SubTexture name="TR_Up0006" x="2959" y="1823" width="400" height="851" frameX="-98" frameY="-82" frameWidth="539" frameHeight="933"/>
+	<SubTexture name="TR_Up0007" x="2959" y="1823" width="400" height="851" frameX="-98" frameY="-82" frameWidth="539" frameHeight="933"/>
+	<SubTexture name="TR_Up0008" x="2959" y="1823" width="400" height="851" frameX="-98" frameY="-82" frameWidth="539" frameHeight="933"/>
+	<SubTexture name="TR_Up0009" x="2959" y="1823" width="400" height="851" frameX="-98" frameY="-82" frameWidth="539" frameHeight="933"/>
+</TextureAtlas>

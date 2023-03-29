@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep sko!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "toffee",
+			"boxState": "normal",
+			"expression": "talk_normal",
+			"text": "What the-?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "toffee",
+			"boxState": "normal",
+			"expression": "talk_normal",
+			"text": "How the hell did you get into my room?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skap beep bo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skeppy boop bop de"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "toffee",
+			"boxState": "normal",
+			"expression": "talk_normal",
+			"text": "Oh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "toffee",
+			"boxState": "normal",
+			"expression": "talk_normal",
+			"text": "I really need to close my window properly next time..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skep beep bap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "toffee",
+			"boxState": "normal",
+			"expression": "talk_normal",
+			"text": "What? A rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skeepity beepy skep bap bo deep bo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Skap bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "toffee",
+			"boxState": "normal",
+			"expression": "talk_normal",
+			"text": "Welp, you've convinced me to do so..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "toffee",
+			"boxState": "normal",
+			"expression": "talk_normal",
+			"text": "Okay, I'll play your little game..."
+		}
+	]
+}

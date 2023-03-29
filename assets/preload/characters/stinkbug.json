@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Stinkbug_Idle"
+		},
+		{
+			"offsets": [
+				-13,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Stinkbug_Left"
+		},
+		{
+			"offsets": [
+				-145,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Stinkbug_Right"
+		},
+		{
+			"offsets": [
+				-51,
+				-102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Stinkbug_Down"
+		},
+		{
+			"offsets": [
+				-55,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Stinkbug_Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stinkbug",
+	"position": [
+		-260,
+		-210
+	],
+	"healthicon": "stinkbug",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		70,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

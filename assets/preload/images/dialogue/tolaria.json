@@ -1,0 +1,24 @@
+{
+	"position": [
+		20,
+		40
+	],
+	"dialogue_pos": "left",
+	"scale": 1.1,
+	"image": "TFR_Dialogue",
+	"animations": [
+		{
+			"loop_name": "TFR_Talk_Loop",
+			"idle_offsets": [
+				-130,
+				90
+			],
+			"idle_name": "TFR_Talk_Idle",
+			"anim": "talk",
+			"loop_offsets": [
+				-120,
+				100
+			]
+		}
+	]
+}

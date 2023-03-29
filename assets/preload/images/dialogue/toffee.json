@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		20,
+		40
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				-129,
+				72
+			],
+			"anim": "talk",
+			"loop_offsets": [
+				-131,
+				77
+			],
+			"idle_name": "TR_Cola_Idle",
+			"loop_name": "TR_Cola_Loop"
+		},
+		{
+			"idle_offsets": [
+				11,
+				114
+			],
+			"anim": "talk_twitching",
+			"loop_offsets": [
+				21,
+				120
+			],
+			"idle_name": "TR_Maniac_Idle",
+			"loop_name": "TR_Maniac_Loop"
+		},
+		{
+			"loop_name": "TR_Normal_Loop",
+			"idle_offsets": [
+				-131,
+				70
+			],
+			"idle_name": "TR_Normal_Idle",
+			"anim": "talk_normal",
+			"loop_offsets": [
+				-131,
+				77
+			]
+		}
+	],
+	"image": "TR_Dialogue"
+}

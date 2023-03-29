@@ -1,0 +1,48 @@
+{
+	"storyName": "Casual Meetup with Gabriel",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "meetup",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"vanish",
+			"dad",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"edgelord",
+			"turinto-emo",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"comfort zone",
+			"gabriel",
+			[
+				90,
+				45,
+				39
+			]
+		]
+	],
+	"weekName": "bonus"
+}

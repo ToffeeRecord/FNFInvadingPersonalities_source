@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "turinto idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "turinto left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "turinto right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "turinto down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "turinto up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/your worst nightmare but emo",
+	"position": [
+		80,
+		250
+	],
+	"healthicon": "turinto-emo",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		35,
+		35
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

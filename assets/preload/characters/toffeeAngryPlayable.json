@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TR_Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TR_Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TR_Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-82
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TR_Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TR_Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "TR_LeftMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				13
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "TR_RightMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-51
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "TR_DownMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				81
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "TR_UpMiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEWToffee_AngryPlayable",
+	"position": [
+		40,
+		-150
+	],
+	"healthicon": "theyhadenough",
+	"flip_x": true,
+	"healthbar_colors": [
+		148,
+		40,
+		0
+	],
+	"camera_position": [
+		40,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

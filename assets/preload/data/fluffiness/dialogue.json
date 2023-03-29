@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Skee bap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tolaria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So YOU'RE the one that caused him to make such a mess?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Skap bo beep bap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tolaria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What? I do not understand..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Beep bo skeep bap bo bop beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tolaria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you mean I'm the same person?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think he meant you're like Toffee but as a cat instead of human..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tolaria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Strange..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tolaria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, pipsqueak, I'll let you know I am NOT the same person..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skeep boop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tolaria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I am not an alternative form of him, I am a completely separate entity from him."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skap beepity bop boop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tolaria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Excuse me? You want to settle this with song?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tolaria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But I'm not even a good singer..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap skeep boopity bap beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tolaria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...FINE..."
+		}
+	]
+}

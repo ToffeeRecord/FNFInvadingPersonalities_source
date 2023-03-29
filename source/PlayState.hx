@@ -54,6 +54,9 @@ import DialogueBoxPsych;
 import sys.FileSystem;
 #end
 
+import flixel.system.FlxAssets.FlxShader;
+import Shaders.GlitchEffect;
+
 using StringTools;
 
 class PlayState extends MusicBeatState
@@ -85,6 +88,11 @@ class PlayState extends MusicBeatState
 	public var modchartTimers:Map<String, FlxTimer> = new Map<String, FlxTimer>();
 	public var modchartSounds:Map<String, FlxSound> = new Map<String, FlxSound>();
 	#end
+
+	var backgroundShader:GlitchEffect;
+	var brokenPieceShader:WiggleEffect;
+	public var hasShader:Bool = false;
+	public var hasWiggleShader:Bool = false;
 
 	//event variables
 	private var isCameraOnForcedPos:Bool = false;
@@ -213,6 +221,7 @@ class PlayState extends MusicBeatState
 	public var songMisses:Int = 0;
 	public var ghostMisses:Int = 0;
 	public var scoreTxt:FlxText;
+	public var creditTxt:FlxText;
 	var timeTxt:FlxText;
 	var scoreTxtTween:FlxTween;
 
@@ -253,6 +262,8 @@ class PlayState extends MusicBeatState
 		Paths.destroyLoadedImages(resetSpriteCache);
 		#end
 		resetSpriteCache = false;
+
+		brokenPieceShader = new WiggleEffect();
 
 		if (FlxG.sound.music != null)
 			FlxG.sound.music.stop();
@@ -454,6 +465,44 @@ class PlayState extends MusicBeatState
 			
 			case 'turintoLol':
 				var bg:BGSprite = new BGSprite('serge is eating the fuckin pizza', -600, -400, 0.9, 0.9);
+				add(bg);
+
+			case 'turintoEmo':
+				var bg:BGSprite = new BGSprite('oooooh very emo', -600, -400, 0.9, 0.9);
+				add(bg);
+
+			case 'meetup':
+				var bg:BGSprite = new BGSprite('meetupBG', -600, -400, 0.9, 0.9);
+				add(bg);
+			
+			case 'stinkbug':
+				backgroundShader = new GlitchEffect();
+				backgroundShader.waveAmplitude = 0.1;
+				backgroundShader.waveFrequency = 5;
+				backgroundShader.waveSpeed = 2;
+				backgroundShader.shader.uTime.value[0] = new flixel.math.FlxRandom().float(-1000, 1000);
+
+				brokenPieceShader.effectType = WiggleEffectType.WAVY;
+				brokenPieceShader.waveAmplitude = 0.2;
+				brokenPieceShader.waveFrequency = 3;
+				brokenPieceShader.waveSpeed = 1.25;
+
+				var bg:BGSprite = new BGSprite('StinkbugBG_Background', -600, -400, 0.1, 0.1);
+				bg.shader = backgroundShader.shader;
+				add(bg);
+
+				var brokenElements:BGSprite = new BGSprite('StinkbugBG_BrokenPieces', -600, -400, 0.9, 0.9);
+				brokenElements.shader = brokenPieceShader.shader;
+				add(brokenElements);
+
+				var island:BGSprite = new BGSprite('StinkbugBG_Island', -600, -400, 0.9, 0.9);
+				add(island);
+
+				hasShader = true;
+				hasWiggleShader = true;
+
+			case 'bedroomNight':
+				var bg:BGSprite = new BGSprite('Song1_BG_Better-Night', -600, -400, 0.9, 0.9);
 				add(bg);
 		}
 
@@ -665,6 +714,13 @@ class PlayState extends MusicBeatState
 		scoreTxt.visible = !ClientPrefs.hideHud;
 		add(scoreTxt);
 
+		creditTxt = new FlxText(0, healthBarBG.y - 42, FlxG.width, "", 20);
+		creditTxt.setFormat(Paths.font("vcr.ttf"), 20, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		creditTxt.scrollFactor.set();
+		creditTxt.borderSize = 1.25;
+		creditTxt.visible = !ClientPrefs.hideHud;
+		add(creditTxt);
+
 		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "BOTPLAY", 32);
 		botplayTxt.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		botplayTxt.scrollFactor.set();
@@ -683,6 +739,7 @@ class PlayState extends MusicBeatState
 		iconP1.cameras = [camHUD];
 		iconP2.cameras = [camHUD];
 		scoreTxt.cameras = [camHUD];
+		creditTxt.cameras = [camHUD];
 		botplayTxt.cameras = [camHUD];
 		timeBar.cameras = [camHUD];
 		timeBarBG.cameras = [camHUD];
@@ -715,11 +772,26 @@ class PlayState extends MusicBeatState
 		#end
 		
 		var daSong:String = Paths.formatToSongPath(curSong);
+		switch (daSong)
+		{
+			case 'matchup':
+				creditTxt.text = 'Original Song - Lovesong by The Cure';
+			case 'party-crasher':
+				creditTxt.text = 'Original Song - Mad World by Tears for Fears';
+			case 'sleepytime':
+				creditTxt.text = "Original Song - Let's Go to Bed by The Cure";
+			case 'vanish':
+				creditTxt.text = 'Original Song - Pompeii by Bastille';
+			case 'woods':
+				creditTxt.text = 'Original Song - A Forest by The Cure';
+			case 'old-edgelord':
+				creditTxt.text = 'Original Song - In the End by Linkin Park';
+		}
 		if (isStoryMode && !seenCutscene)
 		{
 			switch (daSong)
 			{
-				case "coladdiction" | "twitching":
+				case "mistakes" | "coladdiction" | "twitching" | "fluffiness":
 					startDialogue(dialogueJson);
 				default:
 					startCountdown();
@@ -1444,6 +1516,15 @@ class PlayState extends MusicBeatState
 
 		callOnLuas('onUpdate', [elapsed]);
 
+		if(hasShader)
+		{
+			backgroundShader.shader.uTime.value[0] += elapsed;
+		}
+		if(hasWiggleShader)
+		{
+			brokenPieceShader.update(elapsed);
+		}
+
 		switch (curStage)
 		{
 			case 'schoolEvil':
@@ -1876,7 +1957,15 @@ class PlayState extends MusicBeatState
 						if(daNote.noteType == 'GF Sing') {
 							gf.playAnim(animToPlay + altAnim, true);
 							gf.holdTimer = 0;
-						} else {
+						}
+						else if(daNote.noteType == 'Duo Sing')
+						{
+							boyfriend.playAnim(animToPlay + altAnim, true);
+							boyfriend.holdTimer = 0;
+							dad.playAnim(animToPlay + altAnim, true);
+							dad.holdTimer = 0;
+						}
+						else {
 							dad.playAnim(animToPlay + altAnim, true);
 							dad.holdTimer = 0;
 						}
@@ -2973,7 +3062,12 @@ class PlayState extends MusicBeatState
 
 		if(daNote.noteType == 'GF Sing') {
 			gf.playAnim(animToPlay, true);
-		} else {
+		}
+		else if(daNote.noteType == 'Duo Sing') {
+			boyfriend.playAnim(animToPlay, true);
+			gf.playAnim(animToPlay, true);
+		}
+		else {
 			var daAlt = '';
 			if(daNote.noteType == 'Alt Animation') daAlt = '-alt';
 
@@ -3089,7 +3183,15 @@ class PlayState extends MusicBeatState
 				if(note.noteType == 'GF Sing') {
 					gf.playAnim(animToPlay + daAlt, true);
 					gf.holdTimer = 0;
-				} else {
+				}
+				else if(note.noteType == 'Duo Sing')
+				{
+					boyfriend.playAnim(animToPlay + daAlt, true);
+					boyfriend.holdTimer = 0;
+					gf.playAnim(animToPlay + daAlt, true);
+					gf.holdTimer = 0;
+				}
+				else {
 					boyfriend.playAnim(animToPlay + daAlt, true);
 					boyfriend.holdTimer = 0;
 				}

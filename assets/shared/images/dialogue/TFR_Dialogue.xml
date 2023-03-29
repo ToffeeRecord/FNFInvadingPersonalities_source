@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TFR_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TFR_Talk_Idle0000" x="5" y="5" width="392" height="623" frameX="-5" frameY="-11" frameWidth="402" frameHeight="634"/>
+	<SubTexture name="TFR_Talk_Idle0001" x="5" y="5" width="392" height="623" frameX="-5" frameY="-11" frameWidth="402" frameHeight="634"/>
+	<SubTexture name="TFR_Talk_Idle0002" x="412" y="5" width="386" height="623" frameX="-13" frameY="-7" frameWidth="402" frameHeight="634"/>
+	<SubTexture name="TFR_Talk_Idle0003" x="412" y="5" width="386" height="623" frameX="-13" frameY="-7" frameWidth="402" frameHeight="634"/>
+	<SubTexture name="TFR_Talk_Idle0004" x="813" y="5" width="402" height="626" frameX="0" frameY="0" frameWidth="402" frameHeight="634"/>
+	<SubTexture name="TFR_Talk_Idle0005" x="813" y="5" width="402" height="626" frameX="0" frameY="0" frameWidth="402" frameHeight="634"/>
+	<SubTexture name="TFR_Talk_Loop0000" x="1230" y="5" width="398" height="641" frameX="0" frameY="0" frameWidth="417" frameHeight="641"/>
+	<SubTexture name="TFR_Talk_Loop0001" x="1230" y="5" width="398" height="641" frameX="0" frameY="0" frameWidth="417" frameHeight="641"/>
+	<SubTexture name="TFR_Talk_Loop0002" x="5" y="661" width="402" height="632" frameX="-8" frameY="-8" frameWidth="417" frameHeight="641"/>
+	<SubTexture name="TFR_Talk_Loop0003" x="5" y="661" width="402" height="632" frameX="-8" frameY="-8" frameWidth="417" frameHeight="641"/>
+	<SubTexture name="TFR_Talk_Loop0004" x="813" y="5" width="402" height="626" frameX="-15" frameY="-13" frameWidth="402" frameHeight="634"/>
+	<SubTexture name="TFR_Talk_Loop0005" x="813" y="5" width="402" height="626" frameX="-15" frameY="-13" frameWidth="402" frameHeight="634"/>
+</TextureAtlas>
